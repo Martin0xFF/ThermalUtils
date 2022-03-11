@@ -1,3 +1,10 @@
+# Extra
+images_*
+video_*
+*.zip
+*.ZIP
+README.txt
+*.swp
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
